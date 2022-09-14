@@ -1,0 +1,3 @@
+Script para gerar vários arquivos GeoTiff a partir de um arquivo NetCDF de forma automatizada.
+
+No exemplo foi utilizado um arquivo NetCDF contendo valores médios de temperatura a 2 metros, com resolução temporal diária e resolução espacial de 0.1° x 0.1°, no período de 2022-01-01 até 2022-06-01 (ano-mes-dia). O objetivo foi gerar um arquivo .tif para cada dia no período de dados, totalizando 152 arquivos.
